@@ -1,4 +1,3 @@
-import './style.css';
 import { App } from './core/App.js';
 import { pluginManager } from './core/PluginManager.js';
 import { NotesPlugin } from './plugins/Notes.js';
